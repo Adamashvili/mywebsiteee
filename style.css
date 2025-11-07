@@ -6,4 +6,7 @@
 
 h1 {
     text-align: center;
+    background-color: black;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
 }
